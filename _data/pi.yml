@@ -1,0 +1,16 @@
+- name: Madison VanWyngarden
+  photo: headshot.jpg
+  info: Fulbright Student, Canadian Institute for Theoretical Astrophysics
+  email: madiv@bu.edu
+  github: https://github.com/mvanwyngarden
+  #researchgate: https://www.researchgate.net/
+  #scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2024) B.A. Astronomy & Physics, Boston University"
+    ]
+
+  educationshort:
+    ["(2024) B.A. Astronomy & Physics, Boston University"]
