@@ -36,7 +36,9 @@ permalink: /about/
 
 <div class="jumbotron">
 <div class="row">
-<img src="images/grad_photo.jpg" width="100%" style="max-width:250px"/>
+<div class="col-sm-4">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:250px"/>
+</div>
 <div class="col-md-12 col-sm-12">
 <h4>A little bit more about me</h4>
 Originally from Omaha, Nebraska (go big red!), I've wanted to be an astronomer since I was eight years old. I completed my undergrad at Boston University in Astronomy & Physics, doing every research project I could get my hands on. During my time at BU, I was also heavily involved in outreach and mentorship! As a sophomore, I reestablished the [BU Astronomical Society](https://www.bu.edu/astronomy/community/student-organizations/) with my Co-President. Adopting the slogan "Space for All," we introduced students across majors to astronomy through student research showcases, tours of the observatory, and packed stargazing nights. I also served as President of the BU Chapter of the Society of Women in Space Exploration and was a mentor in the Physics Department's peer mentorship program, [PRISM](https://sites.bu.edu/prism/). As I grow as a scientist, I am excited to expand my scientific outreach efforts and continue fostering inclusive spaces within the Astronomy community.
