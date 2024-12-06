@@ -72,7 +72,6 @@ Some users:
 <a href="https://yunzhe-li.top/" target="_blank">★</a>
 <a href="https://xia-hu.github.io/" target="_blank">★</a>
 <a href="https://p-bajpai.github.io/" target="_blank">★</a>
-<a href="https://zchoffin.github.io/" target="_blank">★</a>
 
 __If you are using this template, feel free to share your site with me, and I'll add it here!__
 
